@@ -1,0 +1,27 @@
+1
+Mulholland Drive
+David Lynch
+2001-10-26
+R
+5.99
+5
+222
+2025-12-31
+2
+Heaven's Gate
+Michael Cimino
+1980-11-19
+R
+5.99
+1
+555
+2025-12-31
+3
+Paris, Texas
+Wim Wenders
+1984-08-23
+R
+5.99
+3
+606
+2025-12-31
